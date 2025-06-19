@@ -83,6 +83,32 @@
 **Tech:** OpenAI API, Vector Db, Workflow automation
 
 ---
+### 🏢 [DietHub Egypt – Health & Wellness Dashboard](private)
+
+> A unified platform for nutritionists, coaches & healthcare pros to manage clients, craft meal/exercise plans, track treatments & automate sessions.
+
+## 🛠 Tech Stack
+- **Frontend:** Angular, Bootstrap  
+- **Backend:** ASP.NET Core, Entity Framework  
+- **DB:** SQL Server  
+- **Maps:** Leaflet / Google Maps API  
+
+** Features **
+- **Packages**: Bundle meals, workouts & therapies  
+- **Meal System**: Design plans, track macros, auto shopping lists  
+- **Exercise System**: Library, routines & progress tracking  
+- **Plans**: Schedule meals/workouts with rest‐day logic  
+- **Medications & Diseases**: Client health tagging  
+- **Treatment Types**: Configure therapy protocols  
+- **Sessions**: In-person/virtual/group + auto-match availability  
+- **Admin & Bulk Ops**: User roles, password resets, CSV import/export  
+- **Dashboards**: Real-time adherence, utilization & uptake charts  
+
+** 📈 Impact **
+- **70%** ↓ manual scheduling  
+- **40%** ↑ client adherence  
+- **50%** ↓ admin overhead  
+
 
 ## 📫 Connect with Me
 
