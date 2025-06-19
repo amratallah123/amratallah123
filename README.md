@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Amr
 
-<!--
-**amratallah123/amratallah123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full-Stack Developer | .NET Core · Angular · SQL · AI Integrations  
+🛠️ Building scalable systems with clean architecture & solid DevOps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+- 💻 Backend: `.NET 6/8`, `EF Core`, `RESTful APIs`, `Microservices`, `node js`
+- 🖼️ Frontend: `Angular`, `React`, `TypeScript`
+- 💾 DB: `SQL Server`, `PostgreSQL`, `MongoDB`, `Redis`
+- ☁️ DevOps: `Docker`, `GitHub Actions`, `Azure`, `AWS (S3)`
+- 🧠 AI: `OpenAI APIs`, `Vector DBs`, `claude`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [CherryPick - Real Estate Platform](https://github.com/amr/cherrypick)
+**Tech**: .NET 8, Angular 17, EF Core, Azure Blob Storage  
+**Highlights**: Clean architecture, layered APIs
+ [🌍 Demo](https://www.cherrypick.com)
+
+
+
+## 🔗 Let's Connect
+
+- 💼 [LinkedIn]([https://linkedin.com/in/amrdev](https://www.linkedin.com/in/amr-atallah-857700197/))
+- 📧 amr.atallahh147@gmail.com
+- 🌐 [amr.dev](https://sites.google.com/view/amr-atallah) *(optional personal site)*
+
+---
