@@ -19,7 +19,7 @@
 
 ## 🔥 Featured Projects
 
-### 🏠 [Cherry Pick – Real Estate Automation Platform](private)
+### 🏠 [Cherry Pick – Real Estate Platform](private)
 
 > A data-driven real estate platform that automates client management, location analysis, and team operations for property scouting and lead generation.
 
