@@ -93,7 +93,7 @@
 - **DB:** SQL Server  
 - **Maps:** Leaflet / Google Maps API  
 
-** Features **
+## ✅ Features
 - **Packages**: Bundle meals, workouts & therapies  
 - **Meal System**: Design plans, track macros, auto shopping lists  
 - **Exercise System**: Library, routines & progress tracking  
@@ -104,11 +104,10 @@
 - **Admin & Bulk Ops**: User roles, password resets, CSV import/export  
 - **Dashboards**: Real-time adherence, utilization & uptake charts  
 
-** 📈 Impact **
+## 📈 Impact
 - **70%** ↓ manual scheduling  
 - **40%** ↑ client adherence  
 - **50%** ↓ admin overhead  
-
 
 ## 📫 Connect with Me
 
