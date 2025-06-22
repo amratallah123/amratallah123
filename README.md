@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Amr Atallah
 
-🚀 Software Engineer | Full-Stack Specialist in .NET & Angular | AI-Enhanced Systems  
+🚀 Software Engineer | Full-Stack Specialist in (.NET & Angular & React & NodeJs) | AI-Enhanced Systems  
 🔧 3+ years building scalable, production-grade apps using modern front-end and back-end stacks.
 
 ---
